@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+[Follow Along Tutorial](https://www.notion.so/sandboxnu/Fall-23-React-Tutorial-0301a3e466c24482b49959bd3a05a8e6)
 
 ## Getting Started
 
