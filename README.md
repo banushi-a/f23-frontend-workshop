@@ -1,5 +1,7 @@
 # Fall ‘23 React Tutorial
 
+(slides)[https://docs.google.com/presentation/d/1-MEKlZrh_eoGq9g-TsfcXhUTHOzS_hTS1klIgAu5QiM/edit?usp=sharing]
+
 ## Goal
 
 We will be creating an application that lets you view images and information of peoples’ plants … Planter!
